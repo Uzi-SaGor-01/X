@@ -227,4 +227,6 @@ module.exports = function ({ api, models }) {
                 break;
         }
     };
+};}
+    };
 };
